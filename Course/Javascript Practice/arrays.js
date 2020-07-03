@@ -31,7 +31,7 @@ var arObj = [{
 var firstElement = arObj[0]
 alert(firstElement)
 alert(arObj)
-console.log(arObj)
+//console.log(arObj)
 
 name = arObj[0]["name"]
 name_2 = arObj[1].name
